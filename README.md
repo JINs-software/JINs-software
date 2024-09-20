@@ -1,4 +1,10 @@
-## Hi there 👋
+### Project in progress...
+
+https://github.com/JINs-software/MarchOfWind_Systems
+
+Golang 기반 RESTful 및 gRPC 통신 서버와 쿠버네티스 오케스트레이션으로 관리되는 배틀필드 그룹 시스템
+
+<img src="https://github.com/user-attachments/assets/495df9d7-2998-48fd-9a62-76c09d696ae1" width="500" />
 
 <!--
 **JINs-software/JINs-software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
